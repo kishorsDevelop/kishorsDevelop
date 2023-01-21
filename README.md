@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm kishor and i am a software engineer. 👋
 
 <!--
 **kishorsDevelop/kishorsDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
